@@ -1,0 +1,12 @@
+# class Introduction: # Введение
+# class InvalidEventRange: # Реестр недопустимых событий внешнего периметра
+# class Review: # Краткий обзор результатов
+# class recomm # Реестр недопустимых событий: меры и средства для предотвращения инцидентов информационной безопасности.
+# class Scan_results: # Результаты анализа защищённости веб-ресурсов
+# class forms
+# class API
+# class Attack_vectors: # Вектора атак на сетевые узлы
+# class Realization: # Результаты реализации недопустимых событий
+# class application: # Остальные разделы
+# class PortsRange:
+# class VulResoursRange:
